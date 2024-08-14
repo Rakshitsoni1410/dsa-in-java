@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Ceiling",
+            "request": "launch",
+            "mainClass": "Ceiling",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "CyclingSort",
+            "request": "launch",
+            "mainClass": "CyclingSort",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Inter",
+            "request": "launch",
+            "mainClass": "Inter",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Linklist",
+            "request": "launch",
+            "mainClass": "Linklist",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Linklist1",
+            "request": "launch",
+            "mainClass": "Linklist1",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Linklisted",
+            "request": "launch",
+            "mainClass": "Linklisted",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Mainf",
+            "request": "launch",
+            "mainClass": "Mainf",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Mains",
+            "request": "launch",
+            "mainClass": "Mains",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "MatrixSearch",
+            "request": "launch",
+            "mainClass": "MatrixSearch",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Pushdemo",
+            "request": "launch",
+            "mainClass": "Pushdemo",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Rcll",
+            "request": "launch",
+            "mainClass": "Rcll",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Rdoublyl",
+            "request": "launch",
+            "mainClass": "Rdoublyl",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Reverselink",
+            "request": "launch",
+            "mainClass": "Reverselink",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Reversestack",
+            "request": "launch",
+            "mainClass": "Reversestack",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Rlink",
+            "request": "launch",
+            "mainClass": "Rlink",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Searchlink",
+            "request": "launch",
+            "mainClass": "Searchlink",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Serchlink",
+            "request": "launch",
+            "mainClass": "Serchlink",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Stack",
+            "request": "launch",
+            "mainClass": "Stack",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Stackc",
+            "request": "launch",
+            "mainClass": "Stackc",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Stackclass",
+            "request": "launch",
+            "mainClass": "Stackclass",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "binary2d",
+            "request": "launch",
+            "mainClass": "binary2d",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "floor",
+            "request": "launch",
+            "mainClass": "floor",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "insertitonsort",
+            "request": "launch",
+            "mainClass": "insertitonsort",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "popdemo",
+            "request": "launch",
+            "mainClass": "popdemo",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "pr",
+            "request": "launch",
+            "mainClass": "pr",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "string",
+            "projectName": "dsa in java_f2b5afb6"
+        }
+    ]
+}
