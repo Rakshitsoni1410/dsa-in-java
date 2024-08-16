@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fibonacy",
+            "request": "launch",
+            "mainClass": "fibonacy",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "pattens",
+            "request": "launch",
+            "mainClass": "pattens",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
