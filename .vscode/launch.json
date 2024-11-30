@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
+            "name": "Fact",
+            "request": "launch",
+            "mainClass": "Fact",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
             "name": "recursion1",
             "request": "launch",
             "mainClass": "recursion1",
