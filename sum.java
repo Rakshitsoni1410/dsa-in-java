@@ -9,6 +9,6 @@ public class sum {
         return 1;
         }
         
-    return a + sum(a-1);
+    return sum(a-1) + a;
     }
 }
