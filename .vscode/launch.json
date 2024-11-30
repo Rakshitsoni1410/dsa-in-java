@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "recursion1",
+            "request": "launch",
+            "mainClass": "recursion1",
+            "projectName": "dsa in java_f2b5afb6"
+        },
+        {
+            "type": "java",
             "name": "fibonacy",
             "request": "launch",
             "mainClass": "fibonacy",
